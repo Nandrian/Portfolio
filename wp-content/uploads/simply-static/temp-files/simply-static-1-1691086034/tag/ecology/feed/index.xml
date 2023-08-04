@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ecology &#8211; Nandrian Ranarivony</title>
+	<atom:link href="httpnandrian.github.io/portfolio.github.io//tag/ecology/feed/" rel="self" type="application/rss+xml" />
+	<link>httpnandrian.github.io/portfolio.github.io//</link>
+	<description>Don&#039;t Stop Until You&#039;re Proud</description>
+	<lastBuildDate>Thu, 10 Nov 2016 04:12:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Day of photography.</title>
+		<link>httpnandrian.github.io/portfolio.github.io//day-of-photography/</link>
+					<comments>httpnandrian.github.io/portfolio.github.io//day-of-photography/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 10 Nov 2016 04:12:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[Ecology]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Information]]></category>
+		<category><![CDATA[Inspiration]]></category>
+		<category><![CDATA[Nature]]></category>
+		<category><![CDATA[Opportunities]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Trends]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">http://localhost/talos/?p=6</guid>
+
+					<description><![CDATA[Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+<p><small>Nullam id dolor id nibh ultricies vehicula ut id elit. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Vestibulum id ligula porta felis euismod semper.</small></p>
+<p><strong>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</strong></p>
+<p><em>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</em></p>
+<div class="gu-box margin-gu">
+<p>Cum magnis dis parturient montes, nascetur ridiculus mus.</p>
+<p>&#8211; John Doe</p>
+</div>
+<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httpnandrian.github.io/portfolio.github.io//day-of-photography/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,795 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-10 04:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:21
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:22
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:42
+msgid "Name *"
+msgstr ""
+
+#: comments.php:43
+msgid "Email *"
+msgstr ""
+
+#: comments.php:45
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:46
+msgid "submit"
+msgstr ""
+
+#: content-audio.php:20 content-gallery.php:30 content-image.php:26
+#: content-quote.php:13 content-video.php:20 content.php:14
+msgid "read more"
+msgstr ""
+
+#: functions.php:62
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:63
+msgid "One Page Menu"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:85
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:91
+msgctxt "Poppins: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:97
+msgctxt "Parisienne: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:189
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:191 functions.php:200
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: functions.php:198
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:207
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:209 functions.php:219 functions.php:229 functions.php:239
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: functions.php:217
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:227
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:237
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:267
+msgid "Container Class"
+msgstr ""
+
+#: functions.php:274 framework/customizer.php:378 framework/customizer.php:423
+msgid "Fullwidth"
+msgstr ""
+
+#: functions.php:277
+msgid "No"
+msgstr ""
+
+#: functions.php:278
+msgid "Yes"
+msgstr ""
+
+#: functions.php:280
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+#: functions.php:286
+msgid "Use Background Image Parallax"
+msgstr ""
+
+#: functions.php:289
+msgid "If checked columns will use background parallax."
+msgstr ""
+
+#: functions.php:294 framework/meta-boxes.php:34
+msgid "Image"
+msgstr ""
+
+#: functions.php:297
+msgid "Select image from media library."
+msgstr ""
+
+#: functions.php:306
+msgid "Image Cover"
+msgstr ""
+
+#: functions.php:309
+msgid "If checked image will cover."
+msgstr ""
+
+#: index.php:15
+msgid "Blog"
+msgstr ""
+
+#: page.php:50
+msgid "Pages:"
+msgstr ""
+
+#: page.php:54
+msgid "Page"
+msgstr ""
+
+#: search.php:11
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: search.php:43
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: single-portfolio.php:15 single-portfolio.php:47
+#: page-templates/template-canvas.php:15
+#: page-templates/template-fullwidth.php:36
+#: page-templates/template-onepage.php:24 page-templates/template-shop.php:51
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: single-portfolio.php:52
+msgid ""
+"<div class=\"project-prev\"><div class=\"text\">prev<br><span>project "
+"name</span></div></div>"
+msgstr ""
+
+#: single-portfolio.php:53
+msgid ""
+"<div class=\"project-next\"><div class=\"text\">next<br><span>project "
+"name</span></div></div>"
+msgstr ""
+
+#: framework/customizer.php:156
+msgid "General"
+msgstr ""
+
+#: framework/customizer.php:160
+msgid "Header"
+msgstr ""
+
+#: framework/customizer.php:164 framework/customizer.php:195
+#: framework/customizer.php:472 framework/customizer.php:583
+msgid "Socials"
+msgstr ""
+
+#: framework/customizer.php:172
+msgid "Site Logo"
+msgstr ""
+
+#: framework/customizer.php:179
+msgid "Navigation"
+msgstr ""
+
+#: framework/customizer.php:186
+msgid "Page Header"
+msgstr ""
+
+#: framework/customizer.php:203
+msgid "Blog Setting"
+msgstr ""
+
+#: framework/customizer.php:211
+msgid "Portfolio Settting"
+msgstr ""
+
+#: framework/customizer.php:219
+msgid "Shop Setting"
+msgstr ""
+
+#: framework/customizer.php:227
+msgid "Footer"
+msgstr ""
+
+#: framework/customizer.php:235
+msgid "404 Setting"
+msgstr ""
+
+#: framework/customizer.php:243
+msgid "Coming Soon"
+msgstr ""
+
+#: framework/customizer.php:251
+msgid "Styling Setting"
+msgstr ""
+
+#: framework/customizer.php:258
+msgid "Preload Setting"
+msgstr ""
+
+#: framework/customizer.php:268
+msgid "Background Main Menu"
+msgstr ""
+
+#: framework/customizer.php:275
+msgid "Color Text Menu"
+msgstr ""
+
+#: framework/customizer.php:282
+msgid "Background Sub Menu"
+msgstr ""
+
+#: framework/customizer.php:289
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/customizer.php:296
+msgid "Background Main Menu Scroll"
+msgstr ""
+
+#: framework/customizer.php:310
+msgid "Background Main Menu Mobile"
+msgstr ""
+
+#: framework/customizer.php:319
+msgid "Primary Color"
+msgstr ""
+
+#: framework/customizer.php:326
+msgid "Custom CSS Code"
+msgstr ""
+
+#: framework/customizer.php:327
+msgid "Add css code here."
+msgstr ""
+
+#: framework/customizer.php:336 framework/customizer.php:649
+msgid "Logo"
+msgstr ""
+
+#: framework/customizer.php:343 framework/customizer.php:663
+msgid "Logo Width"
+msgstr ""
+
+#: framework/customizer.php:350 framework/customizer.php:677
+msgid "Logo Height"
+msgstr ""
+
+#: framework/customizer.php:357
+msgid "Logo Margin"
+msgstr ""
+
+#: framework/customizer.php:371
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/customizer.php:376 framework/customizer.php:421
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/customizer.php:377 framework/customizer.php:422
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/customizer.php:383
+msgid "Background header"
+msgstr ""
+
+#: framework/customizer.php:390
+msgid "Excerpt Length"
+msgstr ""
+
+#: framework/customizer.php:403
+msgid "Portfolio Single"
+msgstr ""
+
+#: framework/customizer.php:408
+msgid "Single Page"
+msgstr ""
+
+#: framework/customizer.php:409
+msgid "Load Ajax Content"
+msgstr ""
+
+#: framework/customizer.php:416
+msgid "Shop Layout"
+msgstr ""
+
+#: framework/customizer.php:428
+msgid "Cart Button Show?"
+msgstr ""
+
+#: framework/customizer.php:437
+msgid "Background Color Footer"
+msgstr ""
+
+#: framework/customizer.php:444
+msgid "Color Text Footer"
+msgstr ""
+
+#: framework/customizer.php:451
+msgid "Footer Bottom"
+msgstr ""
+
+#: framework/customizer.php:458
+msgid "Logo Footer"
+msgstr ""
+
+#: framework/customizer.php:479 framework/customizer.php:590
+msgid "Icon Class"
+msgstr ""
+
+#: framework/customizer.php:480 framework/customizer.php:591
+msgid "This will be the social icon: http://fontawesome.io/icons/"
+msgstr ""
+
+#: framework/customizer.php:485 framework/customizer.php:596
+msgid "Link URL"
+msgstr ""
+
+#: framework/customizer.php:486 framework/customizer.php:597
+msgid "This will be the social link"
+msgstr ""
+
+#: framework/customizer.php:500
+msgid "Text Left Footer Bottom"
+msgstr ""
+
+#: framework/customizer.php:514
+msgid "Text Right Footer Bottom"
+msgstr ""
+
+#: framework/customizer.php:530 framework/customizer.php:554
+#: framework/nav-menus.php:49
+msgid "Background Image"
+msgstr ""
+
+#: framework/customizer.php:537 framework/customizer.php:569
+msgid "Title"
+msgstr ""
+
+#: framework/customizer.php:544 framework/customizer.php:576
+msgid "Sub Title"
+msgstr ""
+
+#: framework/customizer.php:561
+msgid "Date Time"
+msgstr ""
+
+#: framework/customizer.php:564
+msgid "Date format: mm/dd/yyyy. Example: 10/25/2017"
+msgstr ""
+
+#: framework/customizer.php:606
+msgid "On/Off Preloader"
+msgstr ""
+
+#: framework/customizer.php:613
+msgid "Preloader Style"
+msgstr ""
+
+#: framework/customizer.php:619 framework/customizer.php:635
+msgid "Preload Scale Text"
+msgstr ""
+
+#: framework/customizer.php:620
+msgid "Logo Loading"
+msgstr ""
+
+#: framework/customizer.php:621
+msgid "Progress Bar Loading"
+msgstr ""
+
+#: framework/customizer.php:622
+msgid "Number Style 1 Loading"
+msgstr ""
+
+#: framework/customizer.php:623
+msgid "Number Style 2 Loading"
+msgstr ""
+
+#: framework/customizer.php:691
+msgid "Text Color"
+msgstr ""
+
+#: framework/customizer.php:705
+msgid "Background Color"
+msgstr ""
+
+#: framework/meta-boxes.php:20
+msgid "Format Details"
+msgstr ""
+
+#: framework/meta-boxes.php:48
+msgid "Gallery"
+msgstr ""
+
+#: framework/meta-boxes.php:60
+msgid "Quote"
+msgstr ""
+
+#: framework/meta-boxes.php:76
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:94
+msgid "Video"
+msgstr ""
+
+#: framework/meta-boxes.php:116
+msgid "Portfolio Multi Image Thumbnail"
+msgstr ""
+
+#: framework/meta-boxes.php:123
+msgid "Portfolio Thumbnal 1"
+msgstr ""
+
+#: framework/meta-boxes.php:129
+msgid "Portfolio Thumbnal 2"
+msgstr ""
+
+#: framework/meta-boxes.php:135
+msgid "Portfolio Thumbnal 3"
+msgstr ""
+
+#: framework/meta-boxes.php:147
+msgid "Single Portfolio Details"
+msgstr ""
+
+#: framework/meta-boxes.php:159
+msgid "Background Image Single Page Sub-header"
+msgstr ""
+
+#: framework/meta-boxes.php:172 framework/meta-boxes.php:197
+#: framework/meta-boxes.php:228
+msgid "Page Details"
+msgstr ""
+
+#: framework/meta-boxes.php:184 framework/meta-boxes.php:209
+#: framework/meta-boxes.php:240
+msgid "Background Image Page Sub-header"
+msgstr ""
+
+#: framework/meta-boxes.php:215 framework/meta-boxes.php:252
+msgid "Page Subtitle"
+msgstr ""
+
+#: framework/meta-boxes.php:246
+msgid "Page Title"
+msgstr ""
+
+#: framework/nav-menus.php:44 framework/nav-menus.php:79
+msgid "Mega Menu"
+msgstr ""
+
+#: framework/nav-menus.php:45
+msgid "Mega Menu Width"
+msgstr ""
+
+#: framework/nav-menus.php:46
+msgid "Column Width"
+msgstr ""
+
+#: framework/nav-menus.php:47
+msgid "Content"
+msgstr ""
+
+#: framework/nav-menus.php:48
+msgid "Hide Text"
+msgstr ""
+
+#: framework/nav-menus.php:50
+msgid "Horizontal Position"
+msgstr ""
+
+#: framework/nav-menus.php:51
+msgid "Vertical Position"
+msgstr ""
+
+#: framework/nav-menus.php:52 framework/nav-menus.php:224
+msgid "Repeat"
+msgstr ""
+
+#: framework/nav-menus.php:53
+msgid "Size"
+msgstr ""
+
+#: framework/nav-menus.php:80
+msgid "Save Menu"
+msgstr ""
+
+#: framework/nav-menus.php:186
+msgid "Upload Image"
+msgstr ""
+
+#: framework/nav-menus.php:189
+msgid "Remove Image"
+msgstr ""
+
+#: framework/nav-menus.php:198
+msgid "Left"
+msgstr ""
+
+#: framework/nav-menus.php:200
+msgid "Right"
+msgstr ""
+
+#: framework/nav-menus.php:202 framework/nav-menus.php:214
+msgid "Center"
+msgstr ""
+
+#: framework/nav-menus.php:210
+msgid "Top"
+msgstr ""
+
+#: framework/nav-menus.php:212
+msgid "Bottom"
+msgstr ""
+
+#: framework/nav-menus.php:222
+msgid "No Repeat"
+msgstr ""
+
+#: framework/nav-menus.php:226
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/nav-menus.php:228
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/nav-menus.php:235
+msgid "Normal"
+msgstr ""
+
+#: framework/nav-menus.php:237
+msgid "Contain"
+msgstr ""
+
+#: framework/nav-menus.php:239
+msgid "Cover"
+msgstr ""
+
+#: framework/nav-menus.php:250
+msgid "HTML and Shortcodes are allowed"
+msgstr ""
+
+#: framework/plugin-requires.php:8
+msgid "Meta Box"
+msgstr ""
+
+#: framework/plugin-requires.php:15
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/plugin-requires.php:25
+msgid "Woocommerce"
+msgstr ""
+
+#: framework/plugin-requires.php:30
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/plugin-requires.php:36
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/plugin-requires.php:42
+msgid "OT Portfolio"
+msgstr ""
+
+#: framework/plugin-requires.php:48
+msgid "OT Gallery"
+msgstr ""
+
+#: framework/plugin-requires.php:54
+msgid "Talos Addon"
+msgstr ""
+
+#: framework/plugin-requires.php:60
+msgid "OT One Click Import Demo"
+msgstr ""
+
+#: framework/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: framework/template-tags.php:36
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: framework/template-tags.php:57 framework/template-tags.php:65
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: framework/template-tags.php:60
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: framework/template-tags.php:68
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: framework/template-tags.php:198
+msgid "To search type and hit enter"
+msgstr ""
+
+#: framework/template-tags.php:239
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/template-tags.php:243
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. Name of the template
+msgid "Template Canvas"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon Page"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:74
+#: page-templates/template-coming-soon-page.php:188
+msgid "days"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:79
+#: page-templates/template-coming-soon-page.php:189
+msgid "hours"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:84
+#: page-templates/template-coming-soon-page.php:190
+msgid "minutes"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:89
+#: page-templates/template-coming-soon-page.php:191
+msgid "seconds"
+msgstr ""
+
+#. Name of the template
+msgid "Template Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Template Onepage"
+msgstr ""
+
+#. Name of the template
+msgid "Template Shop"
+msgstr ""
+
+#: woocommerce/archive-product.php:36
+msgid "Shop"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:87
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:92
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:93
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:34
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:19
+msgid "Sale!"
+msgstr ""
+
+#. Name of the theme
+msgid "Talos"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Talos is a Modern and Creative premium WordPress Theme . Design Theme is "
+"made in a beautiful style. It is suitable for Personal Portfolio, Creative "
+"Agency, Designer Portfolio, Illustrator Portfolio, Photographer Portfolio "
+"and more.Theme has a universal design, it thought every detail and animation "
+"effect. Its just as easy to customize to fit your needs, replace images and "
+"texts."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.oceanthemes.net/talos-preview/"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""
